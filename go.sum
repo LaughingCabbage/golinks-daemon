@@ -119,6 +119,8 @@ github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0U
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/govice/golinks v0.1.1 h1:Uxk7Ak9xNGeUWTqC3cWzsVZIIww0lvnNqsF6uLHPKVY=
 github.com/govice/golinks v0.1.1/go.mod h1:NGQ4Mc5c9FSxdAnmAMkdyXUHI/QoPaFElf9VX9ag7MY=
+github.com/govice/golinks v0.1.2 h1:PON8IKdw9DruQEYqioFqcrzR23wMJepgsos3SalOthI=
+github.com/govice/golinks v0.1.2/go.mod h1:NGQ4Mc5c9FSxdAnmAMkdyXUHI/QoPaFElf9VX9ag7MY=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.0/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 github.com/grpc-ecosystem/grpc-gateway v1.9.0/go.mod h1:vNeuVxBJEsws4ogUvrchl83t/GYV9WGTSLVdBhOQFDY=
